@@ -27,6 +27,6 @@ This could equally be `curl http://127.17.42.1/application1 | /bin/bash` but the
 
 Everything under `/application1` will return a script that'll download and extract from `/application1/bundle` which is everything in `/application1/provisioning` compressed as a single tarball
 
-#License
--------
-Copyright (c) 2014 Shannon Wynter, Ladbrokes Digital Australia Pty Ltd. Licensed under GPL2. See the [LICENSE][LICENSE.md] file for a copy of the license.
+##License
+
+Copyright (c) 2014 Shannon Wynter, Ladbrokes Digital Australia Pty Ltd. Licensed under GPL2. See the [LICENSE.md](LICENSE.md) file for a copy of the license.
