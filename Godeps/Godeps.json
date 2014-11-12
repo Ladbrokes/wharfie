@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/ladbrokes/wharfie",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/op/go-logging",
+			"Rev": "25891250fe98858f83506bc4411f82722d1be344"
+		},
+		{
+			"ImportPath": "github.com/vharitonsky/iniflags",
+			"Comment": "v.1.0-21-g14f4b95",
+			"Rev": "14f4b95d09b99e2475e82c37a2f943ef2469a890"
+		}
+	]
+}
