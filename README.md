@@ -16,7 +16,7 @@ Which resulted in an unnecessary large layer in the middle of our image that was
 
 `wharfie` lets us avoid the COPY step by being a simple httpd with built in compression tied to our build structure (think, nginx but with rigid layout and built in packaging)
 
-With the resulting Dockerfile becomming
+With the resulting Dockerfile becoming
 
 ```
 FROM registry.office/base:latest
